@@ -1,0 +1,6 @@
+﻿.dart_tool/
+build/
+*.lock
+.idea/
+.vscode/
+windows/flutter/ephemeral/
